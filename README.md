@@ -1,6 +1,6 @@
 # AmphiLoop
 
-A mono/stereo looper for Windows VST3 hosts. Record, overdub and undo loops up to 60 seconds long.
+A FREE and FAST VST3 looper with delay compensation. Record, overdub and undo loops up to 60 seconds long.
 
 **[Download for Windows — 0.3.3 alpha](https://github.com/JesseManser/AmphiLoop/releases/download/v0.3.3-alpha/AmphiLoop-0.3.3-alpha-Windows-x64.zip)**
 
